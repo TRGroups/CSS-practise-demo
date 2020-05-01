@@ -1,0 +1,10 @@
+.container {
+    background-image: url('https://waveride.qodeinteractive.com/wp-content/uploads/2020/02/h3-rev-background-img.jpg');
+    background-size: 100%;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    font-family: "Josefin Sans",sans-serif;
+    position: relative;
+    overflow: hidden;
+}
