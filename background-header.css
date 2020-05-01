@@ -1,0 +1,22 @@
+.background-header {
+    position: relative;
+}
+
+.background-header img {
+    position: absolute;
+}
+
+.background-header img:nth-child(1) {
+    top: 50px;
+    right: 280px;
+}
+
+.background-header img:nth-child(2) {
+    right: 38.5%;
+    top: 120px;
+}
+
+.background-header img:nth-child(3) {
+    right: 42%;
+    top: 100px;
+} 
