@@ -32,6 +32,11 @@
     margin: 0 10px;
     text-shadow: 0.2px 0.2px 30px rgba(0, 0, 0, .5);
     cursor: pointer;
+    transition: all 0.3s;
+}
+
+.nav-bar .list li:hover {
+    color: rgb(22, 213, 204);
 }
 
 .nav-bar .list li:first-child {
